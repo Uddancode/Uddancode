@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nandipkn1973@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WDVGVTr_EI75W2rQuJYT2GXNF4hoH4qB/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1WDVGVTr_EI75W2rQuJYT2GXNF4hoH4qB/view?usp=sharing](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1avwcYUXSor7sgbjO628xfR59PASswg5G%2Fview%3Fusp%3Dsharing&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-ZWMwYjc3MzYtZjUzMy00YTdiLTljY2YtZGNjYmUwMTMyNzQyXzEwMA%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bo0U%2BgFRjS3ixEFfzJOvS2g%3D%3D))
 
 - ⚡ Fun fact **I enjoy tackling algorithmic challenges while brewing the perfect cup of coffee, all as a passionate MERN Stack and App Developer! ☕**
 
