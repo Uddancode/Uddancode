@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the project [Note-Minds](https://note-minds.vercel.app/)
 
-- 🌱 I’m currently learning **MERN Stack, NextJS, AI/ML, Drizzle ORM, Prisma, Flutter, Kotlin**
+- 🌱 I’m currently learning **MERN Stack, NextJS, HTML, CSS, AI/ML, DSA/CP**
 
 - 💬 Ask me about **MERN Stack and CP/DSA**
 
