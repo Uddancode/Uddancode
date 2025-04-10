@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uddancode" alt="uddancode" /></a> </p>
 
-- 🔭 I’m currently working on [Saarthi-AI](https://github.com/Uddancode/saarthi-ai)
+- 🔭 I’m currently working on the project [Note-Minds](https://note-minds.vercel.app/)
 
 - 🌱 I’m currently learning **MERN Stack, NextJS, AI/ML, Drizzle ORM, Prisma, Flutter, Kotlin**
 
