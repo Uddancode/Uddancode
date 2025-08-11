@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souranil Nandi</h1>
-<h3 align="center">Open Source Contributor | Competitive Programmer | MERN Stack & AI/ML Developer | Java + Spring Boot Enthusiast | C++ Problem Solver</h3>
+<h3 align="center">Open Source Contributor | Competitive Programmer | MERN Stack & Java Developer | Spring Boot Enthusiast | C++ Problem Solver</h3>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,8 +10,8 @@
 ---
 
 - 🔭 I’m currently working on: [Note-Minds](https://note-minds.vercel.app/)
-- 🌱 Currently learning: **MERN Stack | Next.js | AI/ML | Spring Boot | DSA & CP**
-- 💬 Ask me about: **JavaScript | React.js | Node.js | Java + Spring Boot | C++ for CP**
+- 🌱 Currently learning: **MERN Stack | Next.js | Spring Boot | DSA & CP**
+- 💬 Ask me about: **JavaScript | React.js | Node.js | Java + Spring Boot | C++**
 - 📫 Reach me at: **nandipkn1973@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1avwcYUXSor7sgbjO628xfR59PASswg5G/view?usp=sharing)
 - ⚡ Fun Fact: *Solving DSA problems fuels my coffee breaks ☕*
@@ -39,6 +39,7 @@
 <h3 align="left">🚀 Languages & Tools I Work With:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="Express.js" width="40" height="40" />
@@ -46,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" />
 </p>
 
@@ -55,7 +55,7 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddancode&layout=compact&theme=tokyonight&langs_count=8&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uddancode&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -71,10 +71,8 @@
 <h3 align="center">🔥 Focus Areas:</h3>
 
 - JavaScript / TypeScript
-- MERN Stack (MongoDB, Express, React, Node)
+- MERN Stack (MongoDB, Express, React, Node.js)
 - Spring Boot + Java Backend
-- C++ (for Competitive Programming & System Design)
-- AI/ML (with Python, TensorFlow, PyTorch)
+- C++ (for Competitive Programming)
 
 ---
-
