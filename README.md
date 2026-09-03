@@ -13,7 +13,7 @@
 - 🌱 Currently learning: **MERN Stack | Next.js | Spring Boot | DSA & CP**
 - 💬 Ask me about: **JavaScript | React.js | Node.js | Java + Spring Boot | C++**
 - 📫 Reach me at: **nandipkn1973@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1avwcYUXSor7sgbjO628xfR59PASswg5G/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rwdSKjWAB6lVyeVQ7pGwYuu5-t7bSvRl/view?usp=sharing)
 - ⚡ Fun Fact: *Solving DSA problems fuels my coffee breaks ☕*
 
 ---
